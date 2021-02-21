@@ -4,15 +4,15 @@ Health Tracke web page contains a list of categories of measurements where user 
 #TECH STACK USED
 
 
-React
-React Hooks
-Redux
-React Redux
-Redux Thunk
-prop-types
-Eslint
-Stylelint
-NPM
+React,
+React Hooks,
+Redux,
+React Redux,
+Redux Thunk,
+prop-types,
+Eslint,
+Stylelint,
+NPM,
 Github
 
 
